@@ -1,0 +1,2 @@
+# szimbolikus
+Szimbolikus számítások
